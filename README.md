@@ -3,7 +3,7 @@
 <img align="left" src="https://github.com/cakecable/cakecable/blob/main/images/waving-hand-sign-emoji-2048x1980-s2qlps2b.png" width="147" alt="Wave Image" /> 
 
 ```powershell
-github.com/cakecable
+github.com/cachedcake
 ```
 
 ```php
@@ -13,7 +13,7 @@ discord  $  @apologizin
 ## 
 &zwnj;
 
-> Hello! I'm **@cakecable**, but I go by cake or cakes. I'm a 18 year old college student and developer studying computer science at UMD. If you'd like to contact me fast use my discord above!
+> Hello! I'm **@cachedcake**, but I go by cake or cakes. I'm a 18 year old college student and developer studying computer science at UMD. If you'd like to contact me fast use my discord above!
 
 ## 
 
